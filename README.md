@@ -1,2 +1,1 @@
-# tinydog
-Project on Tinydog
+TinDog Starting Files
